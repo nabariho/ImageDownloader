@@ -46,9 +46,6 @@ function onDeviceReady()
 
 License
 ------------
-
-The MIT License (MIT)
-
 The MIT License (MIT)
 
 Copyright (c) 2013 Rubén Domínguez  (https://github.com/nabariho, ruben@theagilemonkeys.com)
