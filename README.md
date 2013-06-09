@@ -43,7 +43,7 @@ function onDeviceReady()
 }
 
 
-### License
+## License
 
 The MIT License (MIT)
 
