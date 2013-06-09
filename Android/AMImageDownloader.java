@@ -1,3 +1,14 @@
+//
+//  AMImageDownloader.java
+//
+//
+//  Created by Ruben on 08/06/13.
+¡//  Copyright (c) 2013 Ruben Domínguez. All rights reserved.
+//  MIT Licensed
+//
+
+
+
 package org.apache.cordova.plugin;
 
 import java.io.File;
