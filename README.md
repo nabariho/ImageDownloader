@@ -41,6 +41,7 @@ function onDeviceReady()
   }),
   file);
 }
+```
 
 
 License
